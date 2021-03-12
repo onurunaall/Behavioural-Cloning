@@ -1,5 +1,3 @@
-!pip3 install imgaug #data augmentation and imaug augmentation >> keras augmentation
-
 import os
 import numpy as np
 import pandas as pd
