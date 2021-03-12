@@ -4,4 +4,4 @@ For an autonomous car, it is significant to avoid the objects. With behavioural 
 
 The whole code can be found as behavioral_cloning.py
 
-For the action server which is the script that connects the behavioural cloning code and the Udacity similator, please look at server.py
+For the action server which is the script that connects the behavioural cloning code and the Udacity similator, please look at drive.py
